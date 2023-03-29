@@ -10,4 +10,4 @@ Completed Tasks:
  - Implemented simple kinematics that can simulate motion for 16 million objects in real-time when using the rasterizer.
 
 Current Task:
-Use the parallel bounding volume hierarchy to simulate collisions, gravity, electromagnetic, and molecular dynamics between millions of particles so that together they have the macrophysical emergent behavior.
+ - Use the parallel bounding volume hierarchy to simulate collisions, gravity, electromagnetic, and molecular dynamics between millions of particles so that together they have the macrophysical emergent behavior.
